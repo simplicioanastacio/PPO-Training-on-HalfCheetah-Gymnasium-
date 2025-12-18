@@ -22,4 +22,11 @@ This project trains a Proximal Policy Optimization (PPO) agent on the HalfCheeta
 ## Learning Curve
 ![ppo_halfcheetah_learning_curve](https://github.com/user-attachments/assets/be389587-fcda-45da-b238-a91dec21c7d3)
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/68f373d7-8b15-41c1-83cf-06ef7621d898
+
+
 
